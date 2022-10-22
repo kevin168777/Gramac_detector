@@ -18,7 +18,7 @@ note :
 
 
 ## file description
-* **Model**
+* **Model** \
 classifier_model : the saving model of classification by randomforest
 detection_model : the saving model of detection by randomforest
 * **somethings_unimportant**
