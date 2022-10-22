@@ -27,7 +27,7 @@ FCG_to_api .py : convert it into api-call graph。 \
 feature_extract_ben .py : extract the feature of benign sample。 \
 feature_extract_mal .py : extract the feature of malware sample。 \
 Gramac .py : feature extract method code。 \
-train .py : to train the model for the detector。 \
+train .py : to train the model for the detector。
 * **Gramac_classifier.py** : the classifier
 * **Gramac_detection.py** : the detector
 * **param_parser.py** :  for parsing args
